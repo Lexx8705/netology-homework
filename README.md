@@ -11,12 +11,19 @@
 Приложите в файл README.md текст использованных команд в GitHub.
 
 Использованные команды:
+
 1.mkdir zabbix && cd zabbix &&  wget https://repo.zabbix.com/zabbix/7.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_latest_7.0+ubuntu22.04_all.deb
+
 2.dpkg -i zabbix-release_latest_7.0+ubuntu22.04_all.deb
+
 3.apt install zabbix-server-pgsql zabbix-frontend-php php8.1-pgsql zabbix-apache-conf zabbix-sql-scripts zabbix-agent
+
 4.sudo apt install postgresql
+
 5.sudo -u postgres psql --command "create user zabbix with password '12345';"
+
 6.sudo -u postgres psql --command "CREATE DATABASE zabbix OWNER zabbix;
+
 7.zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psql zabbix
 
 ![image](https://github.com/user-attachments/assets/e2fe4ddb-cfbb-4383-8990-0a9445c7c62b)
@@ -49,6 +56,10 @@
 
 
 Использованные команды:
+
 1.sudo apt install zabbix-agent
+
 2.tail -f /var/log/zabbix/zabbix_agentd.log
+
 3.systemctl restart zabbix-agent
+
