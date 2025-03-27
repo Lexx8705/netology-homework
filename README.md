@@ -52,7 +52,8 @@
 ![image](https://github.com/user-attachments/assets/3ad8907e-d326-4780-b9c2-a3e8ec45b76b)
 
 
-![image](https://github.com/user-attachments/assets/fed98d9c-6a07-4f90-9251-e0b405162149)
+![image](https://github.com/user-attachments/assets/e6b9361c-afd7-4b6d-be47-d4d7779e4fb2)
+
 
 
 Использованные команды:
