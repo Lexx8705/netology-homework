@@ -48,5 +48,7 @@
 Требования к результату  
 Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»  
 
-![image](https://github.com/user-attachments/assets/9b375b3c-4350-4277-8f96-7aa29d70214d)
+![image](https://github.com/user-attachments/assets/2535d454-078d-423b-a6d4-498dbcf4d2c1)
+
+
 
