@@ -36,7 +36,10 @@
 Требования к результату  
  Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения  
 
-![image](https://github.com/user-attachments/assets/11e86d08-a979-41f1-9e5e-f1caac0cccea)
+<!-- ![image](https://github.com/user-attachments/assets/11e86d08-a979-41f1-9e5e-f1caac0cccea) -->
+
+![image](https://github.com/user-attachments/assets/aaafdbd9-164e-41dc-b037-73f022cd9a14)
+
 
 Задание 4  
 Создайте свой кастомный дашборд.  
@@ -48,7 +51,9 @@
 Требования к результату  
 Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»  
 
-![image](https://github.com/user-attachments/assets/2535d454-078d-423b-a6d4-498dbcf4d2c1)
+<!--![image](https://github.com/user-attachments/assets/2535d454-078d-423b-a6d4-498dbcf4d2c1)  -->
+
+![image](https://github.com/user-attachments/assets/2b29e9b5-98b3-427e-8758-cb192491daf0)
 
 
 
