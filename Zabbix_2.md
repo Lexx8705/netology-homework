@@ -38,7 +38,8 @@
 
 <!-- ![image](https://github.com/user-attachments/assets/11e86d08-a979-41f1-9e5e-f1caac0cccea) -->
 
-![image](https://github.com/user-attachments/assets/aaafdbd9-164e-41dc-b037-73f022cd9a14)
+![image](https://github.com/user-attachments/assets/8d8655c2-0443-43f1-820b-c6d22b66dc52)
+
 
 
 Задание 4  
